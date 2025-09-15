@@ -2,6 +2,7 @@
   "name": "memory-graph-mcp",
   "version": "1.0.0",
   "description": "Lightweight Memory Graph MCP server for persistent AI workspace memory",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
